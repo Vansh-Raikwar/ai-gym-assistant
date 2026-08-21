@@ -1,0 +1,24 @@
+# Python & Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets
+.env
+.env.local
+.env.*.local
+
+# Database & runtime files
+*.sqlite3
+*.log
+
+# IDE & OS cache
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.antigravity/
